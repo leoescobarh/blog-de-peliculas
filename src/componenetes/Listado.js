@@ -26,6 +26,7 @@ import swAlert from '@sweetalert/with-react'
    //Se ocupa Navigate por Redirect
 return(
     <>
+    <h1 style={{textAlign: "center"}}> Peliculas Populares</h1>
     {!token && <Navigate to ="/"/> }
     <div className="row">
 {/*estructura base del listado de peliculas!*/}

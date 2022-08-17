@@ -24,7 +24,7 @@ function Header (){
                         <Link to="/Listado" className="nav-link active"> Listados</Link>
                         </li>
                         <li>
-                        <Link to="/contacto" className="nav-link active"> Contacto</Link>
+                      {/* <Link to="/contacto" className="nav-link active"> Contacto</Link>  */}
                         </li>
                     </ul>
                     
